@@ -1,10 +1,25 @@
-# spfx-list-library-crude
+# SPFX-List-Library-crude
 
 ## Summary
 
-Short summary on functionality and used technologies.
+It performs following function.
+1. List operation using PNP and REST api
+2. Controls like dropdown, people picker, checkbox, datepicker used.
+3. Library Operation like getting files from Doc library
+4. Multiple File Upload along with removal while uploading document
 
-[picture of the solution in action, if possible]
+![image](https://user-images.githubusercontent.com/45258794/132997468-706fc8d4-e2f2-4e91-9a3d-1a3d6126fe24.png)
+
+![image](https://user-images.githubusercontent.com/45258794/132997511-d44edfdb-bae4-4617-ae84-dc1c0eea08b5.png)
+
+![image](https://user-images.githubusercontent.com/45258794/132997551-e3bb5f43-632f-44bc-9e89-402a112f1161.png)
+
+![image](https://user-images.githubusercontent.com/45258794/132997580-ed62f7e5-833b-4c37-846e-913155bc65ea.png)
+
+![image](https://user-images.githubusercontent.com/45258794/132997616-1d22709e-77be-422e-95f9-6bad8733cb44.png)
+
+![image](https://user-images.githubusercontent.com/45258794/132997656-4a71f7b4-6e3e-4b94-a69f-748aa1550ed9.png)
+
 
 ## Used SharePoint Framework Version
 
@@ -20,12 +35,6 @@ Short summary on functionality and used technologies.
 ## Prerequisites
 
 > Any special pre-requisites?
-
-## Solution
-
-Solution|Author(s)
---------|---------
-folder name | Author details (name, company, twitter alias with link)
 
 ## Version history
 
