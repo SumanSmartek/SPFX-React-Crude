@@ -87,6 +87,7 @@ export default class ListCrude extends React.Component<IListCrudeProps, any> {
     debugger;
     return (
       <div className={ styles.listCrude }>
+        <h2>Crude Operation</h2>
         <PrimaryButton onClick={()=>this.addeditDetails(false)}>Add New</PrimaryButton>
         <PrimaryButton onClick={()=>this.viewMyApproval()}>View My Approval</PrimaryButton>
         <PrimaryButton onClick={()=>this.filterRecord('suman')}>Filter Record</PrimaryButton>
