@@ -26,6 +26,7 @@ public BindDropDown(listName: string,DropDownType: string,pnpSelect: string,pnpE
                 results.map((result)=>{
                 DropdownOption.push({key:result.Id,text:result.Title});
                 });
+                
             }
             resolve(DropdownOption);
         },(error:any)=>{
